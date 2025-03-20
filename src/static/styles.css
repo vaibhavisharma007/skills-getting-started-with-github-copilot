@@ -74,6 +74,40 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.activity-card ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  margin-top: 10px;
+  color: #333;
+}
+
+.activity-card li {
+  margin-bottom: 5px;
+}
+
+#participants-list {
+  margin-top: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+#participants-list h4 {
+  margin-bottom: 10px;
+  color: #1a237e;
+}
+
+#participants-list ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+#participants-list li {
+  margin-bottom: 5px;
+  color: #333;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
